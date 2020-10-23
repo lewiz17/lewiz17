@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align='right' src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47f432655751fbc4ec4bb7fa845bd52067fa3f3332&rid=giphy.gif" width="200">
 
-<!--
-**lewiz17/lewiz17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Lewiz Acosta
+## Front-end Developer 👨‍💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://img.shields.io/badge/Linkedin-Lewiz%20Acosta-blue)](https://www.linkedin.com/in/eduacope/)
+[![](https://img.shields.io/badge/Gmail-Lewiz%20Acosta-red)](mailto:lewiz.acosta18@gmail.com)
+
+![Lewiz Acosta github stats](https://github-readme-stats.vercel.app/api?username=lewiz17&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiz17&layout=compact&theme=default)](https://github.com/lewiz17/github-readme-stats)
+
+
