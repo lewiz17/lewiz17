@@ -1,4 +1,4 @@
-<img align='right' src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47f432655751fbc4ec4bb7fa845bd52067fa3f3332&rid=giphy.gif" width="200">
+<img align='right' src="https://bluuweb.github.io/jim.gif" width="200">
 
 ## I'm Lewiz Acosta
 ## Front-end Developer 👨‍💻
