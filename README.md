@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" width="350"  height="200">
 
 ## I'm Lewiz Acosta
 ## Front-end Developer 👨‍💻
