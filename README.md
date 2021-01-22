@@ -1,5 +1,3 @@
-<img align='right' src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" width="350"  height="180">
-
 ## I'm Lewiz Acosta
 ## Front-end Developer 👨‍💻
 
@@ -7,7 +5,11 @@
 [![](https://img.shields.io/badge/Linkedin-Lewiz%20Acosta-blue)](https://www.linkedin.com/in/eduacope/)
 [![](https://img.shields.io/badge/Gmail-Lewiz%20Acosta-red)](mailto:lewiz.acosta18@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiz17&layout=compact&theme=default)](https://github.com/lewiz17/github-readme-stats)
+<img align='right' src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" width="350">
+
 ![Lewiz Acosta github stats](https://github-readme-stats.vercel.app/api?username=lewiz17&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiz17&layout=compact&theme=default)](https://github.com/lewiz17/github-readme-stats)
+
 
 
