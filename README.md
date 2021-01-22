@@ -1,5 +1,5 @@
-## I'm Lewiz Acosta
 <img align='right' src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif" width="350">
+## I'm Lewiz Acosta
 ## Front-end Developer 👨‍💻
 
 
