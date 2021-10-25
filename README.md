@@ -12,7 +12,7 @@
 
 ![Lewiz Acosta github stats](https://github-readme-stats.vercel.app/api?username=lewiz17&show_icons=true&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiz17&layout=compact&theme=default)](https://github.com/lewiz17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiz17&layout=compact&langs_count=8&theme=default)](https://github.com/lewiz17/github-readme-stats)
 
 
 
