@@ -1,6 +1,6 @@
 
 
-## I'm Lewiz Acosta
+## Lewiz Acosta
 ## Front-end Developer 👨‍💻
 
 
